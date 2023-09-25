@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\bin\Debug\Manav-Program.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\bin\Debug\Manav-Program.exe
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\bin\Debug\Manav-Program.pdb
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav-Program.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav_Program.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav_Program.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav-Program.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav-Program.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav-Program.exe
+C:\Users\student\Desktop\Ahmet\ntp\Manav-Program\Manav-Program\obj\Debug\Manav-Program.pdb
